@@ -1,0 +1,6 @@
+2022/09/06-14:00:06.520 38c4 Reusing MANIFEST E:\personal-project\express-hello-world\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/09/06-14:00:06.520 38c4 Recovering log #3
+2022/09/06-14:00:06.541 38c4 Reusing old log E:\personal-project\express-hello-world\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000003.log 
+2022/09/06-14:00:57.226 18b0 Level-0 table #5: started
+2022/09/06-14:00:57.257 18b0 Level-0 table #5: 1088698 bytes OK
+2022/09/06-14:00:57.259 18b0 Delete type=0 #3
